@@ -23,6 +23,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/charllie-ricardez-b41b2b1b5"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/AlexRL1101"
       }
     ]
   },
@@ -370,6 +374,10 @@
         {
           "URL": "https://www.linkedin.com/in/charllie-ricardez-b41b2b1b5",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/AlexRL1101",
+          "type": "github"
         }
       ]
     },
