@@ -9,6 +9,10 @@
       "name": "Charllie",
       "surnames": "Ricardez",
       "title": "%%HEADLINE%%",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/11/7c487c4f-38b5-496d-b4f8-441a8703aeff_whatsapp-image-2025-.jpeg",
+        "alt": "WhatsApp Image 2025-03-06 at 8.44.58 PM.jpeg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJT8t4j1_77YURRGuG2RHLJtQ)",
         "country": "México",
