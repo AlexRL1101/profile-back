@@ -84,6 +84,10 @@
           "type": "technology"
         },
         {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
           "name": "PostgreSQL",
           "type": "technology"
         }
