@@ -66,6 +66,45 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería en Sistemas Computacionales",
+        "startDate": "2017-08-01",
+        "institution": {
+          "name": "Instituto Tecnológico Superior de Comalcalco",
+          "description": "Estudios Superiores"
+        },
+        "finishDate": "2021-11-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
