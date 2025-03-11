@@ -80,6 +80,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
