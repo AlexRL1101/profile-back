@@ -90,6 +90,10 @@
         {
           "name": "PostgreSQL",
           "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
