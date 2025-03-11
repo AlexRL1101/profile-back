@@ -82,6 +82,10 @@
         {
           "name": "NodeJS",
           "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
