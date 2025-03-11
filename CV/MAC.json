@@ -26,6 +26,65 @@
     "jobs": [
       {
         "organization": {
+          "name": "Comercializadora NAENS de Bienes y Servicios"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software",
+            "startDate": "2021-08-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "RESIDENCIA PROFESIONAL"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure DevOps",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "CVDR Unidad Cancún IPN"
         },
         "roles": [
