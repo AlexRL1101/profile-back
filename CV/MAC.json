@@ -380,6 +380,12 @@
           "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
       }
     ]
   },
