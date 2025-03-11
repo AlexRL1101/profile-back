@@ -96,6 +96,10 @@
           "type": "technology"
         },
         {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
