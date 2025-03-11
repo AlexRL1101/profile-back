@@ -291,7 +291,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": ".NET",
+          "name": "Apple iOS",
           "type": "technology"
         }
       },
@@ -423,7 +423,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": ".NET",
+        "name": "Apple iOS",
         "type": "technology"
       },
       {
